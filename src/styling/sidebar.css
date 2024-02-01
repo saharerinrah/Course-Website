@@ -1,0 +1,19 @@
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 200px; /* Adjust the width as needed */
+  }
+
+.list-unstyled {
+    padding: 20px;
+  }
+  
+.list-unstyled li a {
+    color: #fff; /* Text color for active link */
+  }
+
+.list-unstyled li {
+    margin-bottom: 10px; /* Adjust the margin as needed */
+  }
